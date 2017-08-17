@@ -1,7 +1,7 @@
 # 12Player 4medic by Jockey Perfect Day
 
 
-## <English>
+## English
 This is the Custom Theater used on "Jockey Perfect Day's Coop Server".  
 https://prfac.com/steam/ins_motd.html <= japanese only :(
 
@@ -36,10 +36,10 @@ To enable Custom Theater write the following to "server.cfg" (or "server_checkpo
 > "mp_theater_override" "jpd12p4medic_default"
 
 Finally put "c_dy_respawn_naong.smx" downloaded to "..\insurgency\cfg\sourcemod\addons\sourcemod\plugins\" and it's done.
-õ SourceMod and Metamod are required. Please investigate by yourself.
+â€  SourceMod and Metamod are required. Please investigate by yourself.
 
 
-### Author
+### Notes
 - This tool is confirmed only in my environment.
 - We are not responsible for any damage caused by this tool.
 - When I feel well, will fix the problem.
@@ -47,23 +47,23 @@ Finally put "c_dy_respawn_naong.smx" downloaded to "..\insurgency\cfg\sourcemod\
 
 
 --------------------------------------------------------
-## <“ú–{Œê>
-–{ƒc[ƒ‹‚Í"Jockey Perfect DayƒT[ƒo["‚Å—˜—p‚µ‚Ä‚¢‚éCustom Theater‚Å‚·B  
-https://prfac.com/steam/ins_motd.html <= ‰¼‚Åì¬iLEƒÖEMj
+## æ—¥æœ¬èª
+æœ¬ãƒ„ãƒ¼ãƒ«ã¯"Jockey Perfect Dayã‚µãƒ¼ãƒãƒ¼"ã§åˆ©ç”¨ã—ã¦ã„ã‚‹Custom Theaterã§ã™ã€‚  
+https://prfac.com/steam/ins_motd.html <= ä»®ã§ä½œæˆï¼ˆÂ´ãƒ»Ï‰ãƒ»ï½€ï¼‰
 
 
-### ŠT—v
-‚±‚ÌCustom Theater‚ÍˆÈ‰º‚Ì“Á’¥‚ğ‚Á‚Ä‚¢‚Ü‚·B
-- 12l‚ÅQ‰Á‚Å‚«‚Ü‚·
-- 4l‚ÌMedic‚ª‚¢‚Ü‚·
-- Medic‚Í‰EƒNƒŠƒbƒN’·‰Ÿ‚µ‚Å‘h¶‚Å‚«‚Ü‚·iŒ©‚½–Ú‚ÍƒiƒCƒt‚Å‚·j
-- G18‚Í999˜Aƒ}ƒKƒWƒ“‚ğ‘•”õ‚µ‚Ä‚¢‚Ü‚·
-- MAP‚Íƒ`ƒFƒbƒNƒ|ƒCƒ“ƒg‚Ì‚İ‚Å‚·
+### æ¦‚è¦
+ã“ã®Custom Theaterã¯ä»¥ä¸‹ã®ç‰¹å¾´ã‚’æŒã£ã¦ã„ã¾ã™ã€‚
+- 12äººã§å‚åŠ ã§ãã¾ã™
+- 4äººã®MedicãŒã„ã¾ã™
+- Medicã¯å³ã‚¯ãƒªãƒƒã‚¯é•·æŠ¼ã—ã§è˜‡ç”Ÿã§ãã¾ã™ï¼ˆè¦‹ãŸç›®ã¯ãƒŠã‚¤ãƒ•ã§ã™ï¼‰
+- G18ã¯999é€£ãƒã‚¬ã‚¸ãƒ³ã‚’è£…å‚™ã—ã¦ã„ã¾ã™
+- MAPã¯ãƒã‚§ãƒƒã‚¯ãƒã‚¤ãƒ³ãƒˆã®ã¿ã§ã™
 
 
-### à–¾
-"The ArmoryFExpanded"‚Æ"Sernix respawn Plugin"‚ğ‘g‚İ‡‚í‚¹‚Äì¬‚µ‚Ü‚µ‚½iMedic‚Í"ROoF_16players_medic_v3"‚ğQl‚Éİ’èjB
-‚»‚Ì‚½‚ßThe ArmoryFExpanded‚ÆSernix respawn Plugin‚ª•K{‚Å‚·B
+### èª¬æ˜
+"The Armoryï¼šExpanded"ã¨"Sernix respawn Plugin"ã‚’çµ„ã¿åˆã‚ã›ã¦ä½œæˆã—ã¾ã—ãŸï¼ˆMedicã¯"ROoF_16players_medic_v3"ã‚’å‚è€ƒã«è¨­å®šï¼‰ã€‚
+ãã®ãŸã‚The Armoryï¼šExpandedã¨Sernix respawn PluginãŒå¿…é ˆã§ã™ã€‚
 
 - "The Armory: Expanded" - 8 & 12 Player Checkpoint & Conquer Custom Theater  
 http://steamcommunity.com/sharedfiles/filedetails/?id=667288497
@@ -73,20 +73,20 @@ https://github.com/Daimyo21/Insurgency-dy-sourcemod/blob/master/scripting/compil
 http://steamcommunity.com/sharedfiles/filedetails/?id=693852024
 
 
-### g—p–@
-The ArmoryFExpanded‚ª•K{‚È‚Ì‚Å"subscribed_file_ids.txt"‚ÉŸ‚Ì‚æ‚¤‚É‹Lq‚µ‚Ü‚·B
+### ä½¿ç”¨æ³•
+The Armoryï¼šExpandedãŒå¿…é ˆãªã®ã§"subscribed_file_ids.txt"ã«æ¬¡ã®ã‚ˆã†ã«è¨˜è¿°ã—ã¾ã™ã€‚
 > 667288497  
 > 1111213634
 
-—LŒø‚É‚·‚é‚É‚Í"server.cfg"i‚Ü‚½‚Í"server_checkpoint.cfg"j‚ÉŸ‚Ì‚æ‚¤‚É‹Lq‚µ‚Ü‚·B
+æœ‰åŠ¹ã«ã™ã‚‹ã«ã¯"server.cfg"ï¼ˆã¾ãŸã¯"server_checkpoint.cfg"ï¼‰ã«æ¬¡ã®ã‚ˆã†ã«è¨˜è¿°ã—ã¾ã™ã€‚
 > "mp_theater_override" "jpd12p4medic_default"
 
-ÅŒã‚É"..\insurgency\cfg\sourcemod\addons\sourcemod\plugins\"‚Öƒ_ƒEƒ“ƒ[ƒh‚µ‚½"c_dy_respawn_naong.smx"‚ğ“ü‚ê‚ÄŠ®—¹‚Å‚·B
-¦SourceMod‚ÆMetamod‚ª•K—v‚É‚È‚è‚Ü‚·B“±“ü•û–@‚É‚Â‚¢‚Ä‚ÍŠe©‚Å’²‚×‚Ä‰º‚³‚¢B
+æœ€å¾Œã«"..\insurgency\cfg\sourcemod\addons\sourcemod\plugins\"ã¸ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ã—ãŸ"c_dy_respawn_naong.smx"ã‚’å…¥ã‚Œã¦å®Œäº†ã§ã™ã€‚
+â€»SourceModã¨MetamodãŒå¿…è¦ã«ãªã‚Šã¾ã™ã€‚å°å…¥æ–¹æ³•ã«ã¤ã„ã¦ã¯å„è‡ªã§èª¿ã¹ã¦ä¸‹ã•ã„ã€‚
 
 
-### ‚»‚Ì‘¼
-- –{ƒc[ƒ‹‚Í„‚ÌŠÂ‹«‚Ì‚İ“®ìŠm”F‚ğ‚µ‚Ä‚¢‚Ü‚·B
-- –{ƒc[ƒ‹‚É‚æ‚è¶‚¶‚½”íŠQ‚É‚Â‚¢‚Ä‚ÍˆêØÓ”C‚ğ•‰‚¢‚Ü‚¹‚ñB
-- –{ƒc[ƒ‹‚Ì•s‹ï‡‚É‚Â‚¢‚Ä‚Í‹C‚ªŒü‚¢‚½‚çC³‚µ‚Ü‚·B
-- —\‚È‚µ‚É–{ƒc[ƒ‹‚ÌŠJ¦‚ğ’†’fA’â~‚·‚é‚±‚Æ‚ª‚ ‚è‚Ü‚·B
+### ãã®ä»–
+- æœ¬ãƒ„ãƒ¼ãƒ«ã¯ç§ã®ç’°å¢ƒã®ã¿å‹•ä½œç¢ºèªã‚’ã—ã¦ã„ã¾ã™ã€‚
+- æœ¬ãƒ„ãƒ¼ãƒ«ã«ã‚ˆã‚Šç”Ÿã˜ãŸè¢«å®³ã«ã¤ã„ã¦ã¯ä¸€åˆ‡è²¬ä»»ã‚’è² ã„ã¾ã›ã‚“ã€‚
+- æœ¬ãƒ„ãƒ¼ãƒ«ã®ä¸å…·åˆã«ã¤ã„ã¦ã¯æ°—ãŒå‘ã„ãŸã‚‰ä¿®æ­£ã—ã¾ã™ã€‚
+- äºˆå‘Šãªã—ã«æœ¬ãƒ„ãƒ¼ãƒ«ã®é–‹ç¤ºã‚’ä¸­æ–­ã€åœæ­¢ã™ã‚‹ã“ã¨ãŒã‚ã‚Šã¾ã™ã€‚
