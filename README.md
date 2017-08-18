@@ -35,8 +35,16 @@ The Armory: Expanded is mandatory for this Custom Theater, so write it to "subsc
 To enable Custom Theater write the following to "server.cfg" (or "server_checkpoint.cfg").
 > "mp_theater_override" "jpd12p4medic_default"
 
-Finally put "c_dy_respawn_naong.smx" downloaded to "..\insurgency\cfg\sourcemod\addons\sourcemod\plugins\" and it's done.
+Finally put "c_dy_respawn_naong_ai_director.smx" downloaded to "..\insurgency\cfg\sourcemod\addons\sourcemod\plugins\" and it's done.
 † SourceMod and Metamod are required. Please investigate by yourself.
+
+
+### Hint
+- You can download c_dy_respawn_naong_ai_director.smx by clicking "View Raw".
+- After introduction, enter "sm plugins list" at the console and it is successful if it is displayed in the list.
+- If "c_dy_respawn_naong_ai_director.smx: Unable to load plugin (bad header)" is displayed, download smx again and try again. (maybe it's downloaded HTML...)
+- The CVAR List of smx can be checked from the source code. (Medic is line 730)  
+https://github.com/Daimyo21/Insurgency-dy-sourcemod/blob/master/scripting/c_dy_respawn_naong_ai_director.sp#L577
 
 
 ### Notes
@@ -81,8 +89,16 @@ The Armory：Expandedが必須なので"subscribed_file_ids.txt"に次のよう�
 有効にするには"server.cfg"（または"server_checkpoint.cfg"）に次のように記述します。
 > "mp_theater_override" "jpd12p4medic_default"
 
-最後に"..\insurgency\cfg\sourcemod\addons\sourcemod\plugins\"へダウンロードした"c_dy_respawn_naong.smx"を入れて完了です。
+最後に"..\insurgency\cfg\sourcemod\addons\sourcemod\plugins\"へダウンロードした"c_dy_respawn_naong_ai_director.smx"を入れて完了です。
 ※SourceModとMetamodが必要になります。導入方法については各自で調べて下さい。
+
+
+### ヒント
+- c_dy_respawn_naong_ai_director.smxは"View Raw"をクリックすることでダウンロードできます。
+- 導入後コンソールで"sm plugins list"と入力し、リスト一覧に表示されていれば成功です。
+- "c_dy_respawn_naong_ai_director.smx: Unable to load plugin (bad header)"と表示されている場合は、もう一度smxをダウンロードしてお試し下さい（HTMLをダウンロードしてたり…）。
+- smxのCVAR Listはソースコードから確認できます（Medicは730行目）。  
+https://github.com/Daimyo21/Insurgency-dy-sourcemod/blob/master/scripting/c_dy_respawn_naong_ai_director.sp#L577
 
 
 ### その他
