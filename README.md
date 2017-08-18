@@ -30,7 +30,7 @@ http://steamcommunity.com/sharedfiles/filedetails/?id=693852024
 ### Usage
 The Armory: Expanded is mandatory for this Custom Theater, so write it to "subscribed_file_ids.txt" as follows.
 > 667288497  
-> 1111213634
+> 1114115196
 
 To enable Custom Theater write the following to "server.cfg" (or "server_checkpoint.cfg").
 > "mp_theater_override" "jpd12p4medic_default"
@@ -84,7 +84,7 @@ http://steamcommunity.com/sharedfiles/filedetails/?id=693852024
 ### 使用法
 The Armory：Expandedが必須なので"subscribed_file_ids.txt"に次のように記述します。
 > 667288497  
-> 1111213634
+> 1114115196
 
 有効にするには"server.cfg"（または"server_checkpoint.cfg"）に次のように記述します。
 > "mp_theater_override" "jpd12p4medic_default"
