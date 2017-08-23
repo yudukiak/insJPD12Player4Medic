@@ -52,7 +52,6 @@
 	
 	"player_templates"
 	{
-        // rifleman is medic
 		"template_rifleman_security_coop"
 		{
 			"team"					"security"
@@ -93,8 +92,8 @@
                 //"weapon_upgrade"        "siderail_lasersight_rail"
                 "weapon_upgrade"        "ammo_hp_m4"
                 "weapon_upgrade"        "barrel_silencer_sec1"
-				//"weapon"				"weapon_kabar"
-                "weapon"                "weapon_defib"
+				"weapon"				"weapon_kabar"
+                //"weapon"                "weapon_defib"
 				//"weapon"				"weapon_m9"
                 "weapon"                "weapon_ae_glock18"
                 "weapon_upgrade"        "speed_holster"

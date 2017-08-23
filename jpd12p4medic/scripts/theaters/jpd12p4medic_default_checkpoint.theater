@@ -14,8 +14,8 @@
 				{
 					"#Squad_Fireteam_WeaponsSgt"			"template_recon_security_coop"
 				//	"#Squad_Fireteam_WeaponsSpecialist"		"template_rifleman_security_coop"
-					"#Squad_Fireteam_Medic"					"template_rifleman_security_coop"
 				//	"#Squad_Fireteam_WeaponsSpecialist"		"template_specialist_security_coop"
+					"#Squad_Fireteam_Medic"					"template_specialist_security_coop"
 					"#Squad_Fireteam_Medic"					"template_specialist_security_coop"
 					"#Squad_Fireteam_WeaponsSpecialist"		"template_breacher_security_coop"
 					"#Squad_Fireteam_WeaponsSpecialist"		"template_sniper_security_coop"
@@ -26,8 +26,8 @@
 				{
 					"#Squad_Fireteam_WeaponsSgt"			"template_recon_security_coop"
 				//	"#Squad_Fireteam_WeaponsSpecialist"		"template_rifleman_security_coop"
-					"#Squad_Fireteam_Medic"					"template_rifleman_security_coop"
 				//	"#Squad_Fireteam_WeaponsSpecialist"		"template_specialist_security_coop"
+					"#Squad_Fireteam_Medic"					"template_specialist_security_coop"
 					"#Squad_Fireteam_Medic"					"template_specialist_security_coop"
 					"#Squad_Fireteam_WeaponsSpecialist"		"template_designated_marksman_security_coop"
 					"#Squad_Fireteam_WeaponsSpecialist"		"template_support_security_coop"
